@@ -1,0 +1,57 @@
+GREETING_MSG : Salut monde
+git-url: ssh://git@ddev-bbucket01-p-lb.axadmin.net:7999/~pasquale.congiusti_audatexdatos.es/concourse-poc-boot.git
+git-branch: master
+git-username: sa-ww-gdc-cf-dev@audatex.com
+git-private-repo-key: |
+    -----BEGIN RSA PRIVATE KEY-----
+    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
+    -----END RSA PRIVATE KEY-----
+
